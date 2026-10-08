@@ -13,13 +13,13 @@ The main purpose of this project is to clean the dataset, analyze startup fundin
  * Clean the startup funding dataset
  * Handle missing values
  * Check and remove duplicate records
- *Convert data into suitable data types
- *Detect funding outliers
- *Analyze startup industries and cities
- *Analyze investment types
- *Find the most funded startups
- *Create meaningful visualizations
- *Generate useful insights from the data
+ * Convert data into suitable data types
+ * Detect funding outliers
+ * Analyze startup industries and cities
+ * Analyze investment types
+ * Find the most funded startups
+ * Create meaningful visualizations
+ * Generate useful insights from the data
 
 📂 Dataset
 -------------------------------------------------------------------
@@ -29,23 +29,23 @@ The dataset used in this project is the Indian Startup Funding Dataset.
 
 It contains information such as:
 
- *Startup Name
- *Industry Vertical
- *SubVertical
- *City Location
- *Investors Name
- *Investment Type
- *Funding Amount
- *Funding Date
+ * Startup Name
+ * Industry Vertical
+ * SubVertical
+ * City Location
+ * Investors Name
+ * Investment Type
+ * Funding Amount
+ * Funding Date
 
 🛠️ Technologies Used
 -------------------------------------------------
- *Python
- *Pandas
- *NumPy
- *Matplotlib
- *Seaborn
- *Google Colab
+ * Python
+ * Pandas
+ * NumPy
+ * Matplotlib
+ * Seaborn
+ * Google Colab
 
 🔍 Data Cleaning
 ------------------------------------------------------
@@ -53,29 +53,29 @@ The dataset was cleaned before analysis.
 
 The following steps were performed:
 
- *Checked the dataset structure and columns
- *Identified missing values
- *Filled missing categorical values with Unknown
- *Checked duplicate records
- *Converted dates into proper date format
- *Extracted the year from the date
- *Cleaned the funding amount column
- *Converted funding amounts into numerical values
- *Detected outliers using the IQR method
+ * Checked the dataset structure and columns
+ * Identified missing values
+ * Filled missing categorical values with Unknown
+ * Checked duplicate records
+ * Converted dates into proper date format
+ * Extracted the year from the date
+ * Cleaned the funding amount column
+ * Converted funding amounts into numerical values
+ * Detected outliers using the IQR method
 
 📊 Data Analysis & Visualizations
 ------------------------------------------------------------
 The project includes visualizations such as:
 
- *Total Startup Funding by Year
- *Top 10 Startup Industries
- *Top 10 Indian Cities by Number of Startups
- *Top Investment Types
- *Top 10 Most Funded Startups
- *Top Industries by Total Funding
- *Top Cities by Total Funding
- *Funding Amount Distribution
- *Normal Values vs Outliers
+ * Total Startup Funding by Year
+ * Top 10 Startup Industries
+ * Top 10 Indian Cities by Number of Startups
+ * Top Investment Types
+ * Top 10 Most Funded Startups
+ * Top Industries by Total Funding
+ * Top Cities by Total Funding
+ * Funding Amount Distribution
+ * Normal Values vs Outliers
  These visualizations help us understand how startup funding is distributed across different years, industries, cities, and startups.
 
 💡 Key Insights
