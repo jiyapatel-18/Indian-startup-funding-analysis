@@ -106,6 +106,7 @@ Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn were used to cle
 The project helps us understand funding trends and the overall structure of the Indian startup ecosystem.
 
 👩‍💻 Project By
+------------------------------------------------------------------------------------
  Jiya Patel & Hani Nayi
 
 Indian Startup Funding Analysis
