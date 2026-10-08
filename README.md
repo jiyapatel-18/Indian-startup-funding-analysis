@@ -26,7 +26,7 @@ Generate useful insights from the data
 -------------------------------------------------------------------
 The dataset used in this project is the Indian Startup Funding Dataset.
 
-📂 Dataset – Indian Startup Funding
+📂 Dataset – Indian Startup Funding(https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding)
 
 It contains information such as:
 
