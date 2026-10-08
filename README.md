@@ -10,9 +10,9 @@ The main purpose of this project is to clean the dataset, analyze startup fundin
 
 🎯 Objectives
 ------------------------------------------------------------------
- *Clean the startup funding dataset
- *Handle missing values
- *Check and remove duplicate records
+ * Clean the startup funding dataset
+ * Handle missing values
+ * Check and remove duplicate records
  *Convert data into suitable data types
  *Detect funding outliers
  *Analyze startup industries and cities
